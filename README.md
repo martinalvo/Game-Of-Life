@@ -41,5 +41,5 @@ Controls
 
 Demo:
 
-![](https://github.com/martinalvo/Hackathon/blob/main/HackAThon/Snake2.png)
+![](GameOfLife/GOLExample.gif)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
